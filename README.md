@@ -4,6 +4,8 @@
 
 This project implements automated C-index calculation for kidney tumor analysis using the KiTS23 dataset. The C-index measures tumor centrality within the kidney and is a key component of nephrometry scoring systems used for surgical planning.
 
+**Project working with USC Radiomics Laboratory on getting the C-Index of renal/kidney tumors that assesses danger levels of nephrectomies.**
+
 ## What is C-Index?
 
 The C-index is calculated as the ratio of the distance between the center of mass of the tumor and the affected kidney region to the radius of the tumor:
@@ -172,6 +174,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - KiTS23 Challenge organizers for the dataset
 - KiTS19 Challenge for manual validation data
 - Medical imaging community for methodology development
+- USC Radiomics Laboratory for collaboration
 
 ---
 
