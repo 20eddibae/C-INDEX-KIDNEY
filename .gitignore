@@ -1,0 +1,78 @@
+# Data files (sensitive/confidential)
+*.csv
+C-Index KiTS19.csv
+results.csv
+standard_results.csv
+detailed_regression_results.csv
+standard_detailed_comparison.csv
+c_index_c_angle_results.csv
+
+# Large datasets
+KiTS23/
+dataset/
+
+# Generated images and plots
+*.png
+*.jpg
+*.jpeg
+c_index_regression_analysis.png
+standard_c_index_comparison.png
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
